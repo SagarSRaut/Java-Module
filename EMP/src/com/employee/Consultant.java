@@ -1,7 +1,7 @@
 package com.employee;
-import Day4.
-public interface Consultant implement TaxPayer{
+ 
+public interface Consultant implements TaxPayer{
 
 	public double calculateTax() ;
-	public  invoice();
+	//public  invoice();
 }
